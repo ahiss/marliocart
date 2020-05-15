@@ -1,0 +1,23 @@
+{
+    "name": "MarlioCart!",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "sevenseg": "*",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.4",
+        "pxt-arcade-display-strings": "github:robo-technical-group/pxt-arcade-display-strings#v1.0.12",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.2.8"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
